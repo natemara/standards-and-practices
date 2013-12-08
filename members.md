@@ -195,6 +195,7 @@ Format:
 | Nancy Iskander | [C-xC-q](https://github.com/C-xC-q) ||
 | Naomi Colvin | [auerfeld] (https://github.com/auerfeld) | Some Python and a little less C. Want to learn more through collaboration. |
 | Nate Aune | [natea] (https://github.com/natea) | Intermediate Python and Django. Want to learn more Javascript such as Angular, Backbone. |
+| Nate Mara | [natemara] (https://github.com/natemara) | Uni student, know a bit of Python and Java. Want to learn C |
 | Norman King | [generalram] (https://github.com/generalram) ||
 | odajay | [odajay](https://github.com/odajay) | Python |
 | Pavan Sudheendra | [91pavan](https://github.com/91pavan) ||
